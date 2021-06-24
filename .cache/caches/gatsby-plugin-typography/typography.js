@@ -1,0 +1,1 @@
+module.exports = require("/Users/beomsoo/Documents/GitHub/blog-test/src/styles/typography")
